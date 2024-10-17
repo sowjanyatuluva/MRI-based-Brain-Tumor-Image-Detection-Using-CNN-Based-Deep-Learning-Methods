@@ -1,1 +1,4 @@
 # MRI-based-Brain-Tumor-Image-Detection-Using-CNN-Based-Deep-Learning-Methods
+In this project, I developed an automated model for detecting brain tumors from 2D MRI images using Convolutional Neural Networks (CNNs). One of the primary challenges was accurately distinguishing subtle differences between healthy and cancerous tissues. To tackle this, I used a diverse dataset containing varying tumor sizes, shapes, and locations to ensure the model learned across all scenarios.  
+
+By implementing the Inception V3 architecture and using the Softmax activation function within TensorFlow and Keras, the model achieved an impressive 95% accuracy. The project aims to enhance patient care by quickly and accurately identifying pathological regions in MRI scans, leading to faster and more precise diagnoses and treatment plans.
